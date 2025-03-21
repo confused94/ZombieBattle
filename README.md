@@ -1,4 +1,4 @@
-Thiird Person Shooter oyun tarzıyla zombilerler savaştığımız benzin bidonunu bulup tankla kapıı patlatıp kaçtığımız çalışmam
+Third Person Shooter oyun tarzıyla zombilerle savaştığımız benzin bidonunu bulup tankla kapıyı patlatıp kaçtığımız çalışmam
 
 
 ![zombie1](https://github.com/confused94/ZombieBattle/assets/130155058/e921aa6e-4c31-4cb2-a5e0-fc08e8b77a30)
